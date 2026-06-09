@@ -5,7 +5,7 @@
 🏢 **Affiliation**: Bosch (Autonomous Driving)
 
 ## 🚀 Featured Projects
-- [multimodalperception]([link](https://github.com/boschresearch/multimodalperception)): IEEE paper on multi-modal object detection (Bosch Research).
+- [multimodalperception](https://github.com/boschresearch/multimodalperception): IEEE paper on multi-modal object detection (Bosch Research).
 
 ## 🛠️ Skills
 !['PyTorch'](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
