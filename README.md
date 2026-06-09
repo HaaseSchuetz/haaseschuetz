@@ -1,7 +1,8 @@
 ## Christian Haase-Schuetz
 ** Deep Learning Engineer | LLM & DL Researcher **
 
-🔬 **Research**: Large Language Models, Multimodal AI, Efficient Inference, Perception
+🔬 **Research**: Large Language Models, Multimodal AI, Efficient Inference, Perception    
+
 🏢 **Affiliation**: Bosch (Autonomous Driving)
 
 ## 🚀 Featured Projects
