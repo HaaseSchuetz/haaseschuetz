@@ -16,6 +16,11 @@
 
 ## 🛠️ Skills
 !['PyTorch'](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white)](#)
+[![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=fff)](#)
+[![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
+[![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
 <!--
 **HaaseSchuetz/haaseschuetz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
