@@ -1,11 +1,11 @@
 ## Christian Haase-Schuetz
 ** Deep Learning Engineer | LLM & DL Researcher **
 
-🔬 **Research**: Large Language Models, Multimodal AI, Efficient Inference, Perception    
+ **Research**: Large Language Models, Multimodal AI, Efficient Inference, Perception    
 
-🏢 **Affiliation**: Bosch (Autonomous Driving)
+ **Affiliation**: Bosch (Autonomous Driving)
 
-## 🚀 Featured Projects
+## Featured Projects
 - [training-data-attribution](https://github.com/HaaseSchuetz/training-data-attribution): Review and Experiments for TDA methods.
 - [llm-finetuning-lora](https://github.com/HaaseSchuetz/llm-finetuning-lora): Fine-tuned a 7B model with LoRA. <!-- on [dataset], achieving [metric].-->
 - [llm-evaluation-suite](https://github.com/HaaseSchuetz/llm-evaluation-suite): Benchmark for testing LLM truthfulness/hallucinations.
@@ -14,7 +14,7 @@
 - [multimodalperception](https://github.com/boschresearch/multimodalperception): IEEE Journal paper on multi-modal object detection (Bosch Research).
 - [iterative-label-improvement](https://github.com/boschresearch/iterative-label-improvement): IEEE Conference paper on auto-labelling (Bosch Research).
 
-## 🛠️ Skills
+## Skills
 !['PyTorch'](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white)](#)
 [![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=fff)](#)
