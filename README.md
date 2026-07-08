@@ -9,6 +9,7 @@
 - [training-data-attribution](https://github.com/HaaseSchuetz/training-data-attribution): Review and Experiments for TDA methods.
 - [llm-finetuning-lora](https://github.com/HaaseSchuetz/llm-finetuning-lora): Fine-tuned a 7B model with LoRA. <!-- on [dataset], achieving [metric].-->
 - [llm-evaluation-suite](https://github.com/HaaseSchuetz/llm-evaluation-suite): Benchmark for testing LLM truthfulness/hallucinations.
+- [llm-quantization-benchmark](https://github.com/HaaseSchuetz/llm-quantization-benchmark): Benchmarking suite for LLM quantization methods, comparing performance, memory, latency, and throughput.
 
 ### With Bosch Research
 - [multimodalperception](https://github.com/boschresearch/multimodalperception): IEEE Journal paper on multi-modal object detection (Bosch Research).
