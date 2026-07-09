@@ -5,6 +5,8 @@
 
  **Affiliation**: Bosch (Autonomous Driving)
 
+Find more details on my [homepage](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=QMWvQz0AAAAJ)
+
 ## Featured Projects
 - [training-data-attribution](https://github.com/HaaseSchuetz/training-data-attribution): Review and Experiments for TDA methods.
 - [llm-finetuning-lora](https://github.com/HaaseSchuetz/llm-finetuning-lora): Fine-tuned a 7B model with LoRA. <!-- on [dataset], achieving [metric].-->
