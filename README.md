@@ -6,20 +6,12 @@ Senior AI and Data Platform leader with extensive experience designing, building
 ## Current Interests
 In addition to my professional work, I actively explore topics such as:
 
-- Large Language Model evaluation
-- Parameter-efficient fine-tuning (LoRA)
-- Training data attribution
-- Efficient AI inference
-- Reasoning and trustworthy AI
-- Agentic AI systems
-
-The repositories in this profile document practical experiments, research prototypes, and technical studies covering:
-
-## Featured Projects
 - [training-data-attribution](https://github.com/HaaseSchuetz/training-data-attribution): Review and Experiments for TDA methods.
 - [llm-finetuning-lora](https://github.com/HaaseSchuetz/llm-finetuning-lora): Fine-tuned a 7B model with LoRA. <!-- on [dataset], achieving [metric].-->
 - [llm-evaluation-suite](https://github.com/HaaseSchuetz/llm-evaluation-suite): Benchmark for testing LLM truthfulness/hallucinations.
 - [llm-quantization-benchmark](https://github.com/HaaseSchuetz/llm-quantization-benchmark): Benchmarking suite for LLM quantization methods, comparing performance, memory, latency, and throughput.
+
+The repositories in this profile document practical experiments, research prototypes, and technical studies covering:
 
 ### With Bosch Research
 - [multimodalperception](https://github.com/boschresearch/multimodalperception): IEEE Journal paper on multi-modal object detection (Bosch Research).
