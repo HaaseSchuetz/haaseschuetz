@@ -11,9 +11,9 @@ In addition to my professional work, I actively explore topics such as:
 - [llm-evaluation-suite](https://github.com/HaaseSchuetz/llm-evaluation-suite): Benchmark for testing LLM truthfulness/hallucinations.
 - [llm-quantization-benchmark](https://github.com/HaaseSchuetz/llm-quantization-benchmark): Benchmarking suite for LLM quantization methods, comparing performance, memory, latency, and throughput.
 
-The repositories in this profile document practical experiments, research prototypes, and technical studies covering:
+The repositories in this profile document practical experiments, research prototypes, and technical studies.
 
-### With Bosch Research
+## Past work with Bosch Research
 - [multimodalperception](https://github.com/boschresearch/multimodalperception): IEEE Journal paper on multi-modal object detection (Bosch Research).
 - [iterative-label-improvement](https://github.com/boschresearch/iterative-label-improvement): IEEE Conference paper on auto-labelling (Bosch Research).
 
