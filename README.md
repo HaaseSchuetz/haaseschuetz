@@ -1,5 +1,5 @@
 ## Christian Haase-Schuetz
-** AI Platform Architect | Cloud & Data Platforms | Applied AI | Technical Leadership **
+**AI Platform Architect | Cloud & Data Platforms | Applied AI | Technical Leadership**
 
 Senior AI and Data Platform leader with extensive experience designing, building, and scaling cloud native machine learning platforms and enterprise data-intensive systems. Proven track record leading large cross-functional engineering organizations, defining architecture strategy, and delivering AI-driven platform capabilities in Azure-based environments. 
 
@@ -34,8 +34,8 @@ The repositories in this profile document practical experiments, research protot
 [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
 
 ## Connect
-[![LinkedIn](https://www.linkedin.com/in/christian-haase-schuetz/)
-[![GitHub](https://github.com/HaaseSchuetz)
-[![Projects](https://haaseschuetz.github.io)
-[![Publications](https://scholar.google.com/citations?user=QMWvQz0AAAAJ&hl=de&oi=ao)
+[LinkedIn](https://www.linkedin.com/in/christian-haase-schuetz/)    
+[GitHub](https://github.com/HaaseSchuetz)    
+[Projects](https://haaseschuetz.github.io)    
+[Publications](https://scholar.google.com/citations?user=QMWvQz0AAAAJ&hl=de&oi=ao)    
 
